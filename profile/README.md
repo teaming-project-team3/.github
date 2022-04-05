@@ -2,14 +2,14 @@
 
 <!-- 서비스 간략설명  -->
 
-## 🌠TEAMING
+# 🌠TEAMING
 
-### TEAMING 소개
+## TEAMING 소개
 
 - [티밍 바로가기](https://teaming.link)
 - 프로젝트팀원을 모집하고 참가자들의 기술과 능력을 쉽게 파악할 수 있게 도와주고 <br> 화상회의와 채팅으로 실시간 소통이 가능한 서비스를 제공하는 웹 플랫폼입니다.
 
-### 핵심 기능
+## 핵심 기능
 
 - `프로젝트 정보`
   - 프로젝트에서 원하는 기술을 모달창으로 즉시 확인할 수 있고 카테고리별로 <br> 구분하여 참가자가 요구하는 프로젝트를 쉽게 찾을 수 있게 메인페이지 제공.
@@ -153,7 +153,7 @@
 </details>
 
 <details>
-<summary>ERD</summary>
+<summary>DB ERD</summary>
 <div markdown="1">
 
 ![ERD](https://user-images.githubusercontent.com/46555489/161620583-918d8dae-76dd-45fc-8467-2439647ebdd2.PNG)
@@ -171,22 +171,5 @@
 </div>
 </details>
 
-<!-- 플로우 차트  -->
-<details>
-<summary>플로우 차트</summary>
-<div markdown="1">
 
-
-</div>
-</details>
-
-<!-- 메뉴 스트럭쳐  -->
-<details>
-<summary>메뉴 스트럭쳐</summary>
-<div markdown="1">
-
-![Menu Structure](https://user-images.githubusercontent.com/87928719/151090653-8b9ee168-802b-4901-bba9-89dc381f2279.png)
-
-</div>
-</details>
 
