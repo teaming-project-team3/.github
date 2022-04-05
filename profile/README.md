@@ -38,7 +38,7 @@
 
 |                                                         [장석우](https://github.com/jsw4215)                                            |                                                         [정민수](https://github.com/jeongmisnu)                                                          |                                                      [이원진](https://github.com/WON-JIN-LEE)                                                       |                                                        [전도현](https://www.behance.net/8c7e3f9a/appreciated)                                                         |                                                                                            
 | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | 
-| <img src="https://avatars.githubusercontent.com/u/55970155?v=4" alt="프로필 이미지" width="200px"/> |  <img src="https://avatars.githubusercontent.com/u/97424268?v=4" alt="프로필 이미지" width="200px"/> | <img src="https://avatars.githubusercontent.com/u/46555489?v=4/152671737-f29d8e5c-76fd-482f-a133-32bedf3a4805.png" alt="프로필 이미지" width="200px" /> | <img src="https://a5.behance.net/0922ca289eb5ace1e0727b742a1f14f76639d8f5/img/profile/no-image-115.png?cb=264615658" alt="프로필 이미지" width="200px" /> 
+| <img src="https://user-images.githubusercontent.com/46555489/161719840-d5663a3a-cca4-4d1e-b29f-7581f7f1210e.png" alt="프로필 이미지" width="200px"/> |  <img src="https://user-images.githubusercontent.com/46555489/161719951-25b36276-0b36-4f3f-b84e-29d7e7581da0.jpg" alt="프로필 이미지" width="200px"/> | <img src="https://user-images.githubusercontent.com/46555489/161719985-93cbd6ed-399d-4888-9f6c-b883c5ef24c9.jpg" alt="프로필 이미지" width="200px" /> | <img src="https://user-images.githubusercontent.com/46555489/161719970-4e512e8f-5fd9-45b3-8058-7e17b58f89b7.png" alt="프로필 이미지" width="200px" /> 
 |                                                                      `Front-End`                                               |                                                                      `Back-End`                                                                       |                                                                      `Back-End`                                                                          |                                                                       `Designer`                                                                       |                                                                      
 
 ### Links
@@ -53,7 +53,7 @@
 
 ## 💎Service Architecture
 
-![티밍아키텍처](https://user-images.githubusercontent.com/46555489/161584453-979755f5-485f-48e4-b048-83c0da243376.png)
+![아키텍처](https://user-images.githubusercontent.com/46555489/161765373-608e48f5-784f-49eb-a5b5-9fad788aab62.png)
 
 
 ---
