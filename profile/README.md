@@ -42,11 +42,11 @@
 |                                                                      `Front-End`                                               |                                                                      `Back-End`                                                                       |                                                                      `Back-End`                                                                          |                                                                       `Designer`                                                                       |                                                                      
 
 ### Links
-- [Home Page](https://teaming.link)
-- [Team Notion](https://www.notion.so/Teaming-c266b86faf844358af8b7c1b46c83a1e)
-- [FrontEnd Url](https://github.com/teaming-project-team3/teaming_frontend)
-- [BackEnd Url ](https://github.com/teaming-project-team3/teaming_backend)
-- [Presentation Link](https://www.youtube.com/watch?v=Jh_xhXWulCY)
+- [**Home Page**](https://teaming.link)
+- [**Team Notion**](https://www.notion.so/Teaming-c266b86faf844358af8b7c1b46c83a1e)
+- [**FrontEnd Repe**](https://github.com/teaming-project-team3/teaming_frontend)
+- [**BackEnd Repo**](https://github.com/teaming-project-team3/teaming_backend)
+- [**Presentation Link**](https://www.youtube.com/watch?v=Jh_xhXWulCY)
 <br>
 
 ---
